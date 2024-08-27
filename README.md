@@ -18,19 +18,19 @@ This project utilizes a comprehensive e-commerce sales dataset to conduct a Mark
 <a id="tools-used"></a>
 
 ## Tools Used
-**Kaggle API:** Data collection using Kaggle API
-**Anaconda Prompt:** Environment setup, directory creation, data extraction using Kaggle API, and command-line interface for Git operations.
-**PostgreSQL (psql):** Database and user creation, data storage, and querying.
-**Jupyter Notebooks:** Step-by-step documentation, data cleaning, and analysis.
+- **Kaggle API:** Data collection using Kaggle API
+- **Anaconda Prompt:** Environment setup, directory creation, data extraction using Kaggle API, and command-line interface for Git operations.
+- **PostgreSQL (psql):** Database and user creation, data storage, and querying.
+- **Jupyter Notebooks and Libraries/Packages:** Step-by-step documentation, data cleaning, and analysis.
 	- **Python Pandas:** Data cleaning and manipulation.
-    - **Numpy:** Numerical operations and data manipulation.
+        - **Numpy:** Numerical operations and data manipulation.
 	- **SQL Magic:** Data integrity verification, feature engineering, exploratory data analysis, and MBA calculations.
 	- **SQLAlchemy Engine**: PostgreSQL connection.
 	- **Random**: Augmenting data by generating fictional product names.
-**VSCode:** Writing scripts and SQL queries.
-**Power BI:** Visualization and interactive dashboard creation.
-**Git:** Version control for tracking changes, managing project history, and pushing the project directory to GitHub.
-**Word/Google Docs:** Final report compilation and formatting.
+- **VSCode:** Writing scripts and SQL queries.
+- **Power BI:** Visualization and interactive dashboard creation.
+- **Git:** Version control for tracking changes, managing project history, and pushing the project directory to GitHub.
+- **Word/Google Docs:** Final report compilation and formatting.
 
 **SQL Skills Demonstrated:**
 - Temp Tables
@@ -49,12 +49,12 @@ This project utilizes a comprehensive e-commerce sales dataset to conduct a Mark
 <a id="features"></a>
 
 ## Features
-- Data Preparation: Comprehensive data cleaning, manipulation, and augmentation, including the generation of random names based on SKU codes and the optimization of database structure through table dissection and feature engineering.
-- Market Basket Analysis: In-depth examination of product combinations frequently purchased together, providing insights into customer buying patterns and opportunities for cross-selling and upselling.
-- Sales Trend Analysis and Product Affinity: Identification of key sales trends over time, including seasonality and product performance, to inform inventory management and promotional planning.
-- Interactive Dashboard: A Power BI dashboard offering dynamic visualizations that allow stakeholders to explore sales data and insights in real-time, fostering data-driven decision-making.
-- Actionable Insights: Clear, data-driven recommendations for improving sales performance and customer satisfaction based on the analysis of buying patterns and product affinities.
-- Comprehensive Reporting: A final report that details the analysis process, findings, and strategic recommendations, showcasing the ability to effectively communicate complex data insights to business stakeholders.
+- **Data Preparation:** Comprehensive data cleaning, manipulation, and augmentation, including the generation of random names based on SKU codes and the optimization of database structure through table dissection and feature engineering.
+- **Market Basket Analysis:** In-depth examination of product combinations frequently purchased together, providing insights into customer buying patterns and opportunities for cross-selling and upselling.
+- **Sales Trend Analysis and Product Affinity:** Identification of key sales trends over time, including seasonality and product performance, to inform inventory management and promotional planning.
+- **Interactive Dashboard:** A Power BI dashboard offering dynamic visualizations allowing stakeholders to explore real-time sales data and insights, fostering data-driven decision-making.
+- **Actionable Insights:** Clear, data-driven recommendations for improving sales performance and customer satisfaction based on the analysis of buying patterns and product affinities.
+- **Comprehensive Reporting:** A final report detailing the analysis process, findings, and strategic recommendations, showcasing the ability to communicate complex data insights to business stakeholders effectively.
 
 <a id="business-question"></a>
 
