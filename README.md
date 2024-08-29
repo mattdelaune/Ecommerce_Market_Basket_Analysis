@@ -22,8 +22,8 @@ This project utilizes a comprehensive e-commerce sales dataset to conduct a Mark
 - **Anaconda Prompt:** Environment setup, directory creation, data extraction using Kaggle API, and command-line interface for Git operations.
 - **PostgreSQL (psql):** Database and user creation, data storage, and querying.
 - **Jupyter Notebooks and Libraries/Packages:** Step-by-step documentation, data cleaning, and analysis.
-	- **Python Pandas:** Data cleaning and manipulation.
-        - **Numpy:** Numerical operations and data manipulation.
+	- **Python Pandas:** Data cleaning and manipulation. 
+	- **Numpy:** Numerical operations and data manipulation.
 	- **SQL Magic:** Data integrity verification, feature engineering, exploratory data analysis, and MBA calculations.
 	- **SQLAlchemy Engine**: PostgreSQL connection.
 	- **Random**: Augmenting data by generating fictional product names.
@@ -99,7 +99,7 @@ In our MBA, we focused on calculating key metrics such as support, confidence, a
 
 <a id="future-work"></a>
 
-## Future Work
+## Recommendations for Future Analysis
 
 To further enhance the insights from this Market Basket Analysis and provide even more actionable recommendations, the following steps could be pursued:
 
