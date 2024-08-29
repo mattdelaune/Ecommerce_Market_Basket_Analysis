@@ -4,20 +4,20 @@
 This project utilizes a comprehensive e-commerce sales dataset to conduct a Market Basket Analysis (MBA) aimed at identifying key product combinations that drive revenue and optimizing cross-selling strategies. The analysis began with the creation of a PostgreSQL database, where data was meticulously cleaned, manipulated, and loaded. Additional steps included augmenting the data with randomly generated product names, optimizing database structure through table dissection, and performing feature engineering to enhance the analysis. The final report and interactive Power BI dashboard offer actionable insights and clear recommendations, demonstrating advanced data processing, analysis, and visualization skills. This project showcases a strong capability to turn complex datasets into strategic business value.
 
 ## Table of Contents
-- [Tools Used](#tools-used)
+- [Technologies Used](#technologies-used)
 - [Data Source](#data-source)
 - [Features](#features)
 - [Business Question](#business-question)
 - [Methodology](#methodology)
 - [Process](#process)
 - [Insights and Recommendations](#insights-and-recommendations)
-- [Future Work](#future-work)
+- [Recommendations for Further Analysis](#future-work)
 - [Contact](#contact)
 - [Screenshots](#screenshots)
 
 <a id="tools-used"></a>
 
-## Tools Used
+## Technologies Used
 - **Kaggle API:** Data collection using Kaggle API
 - **Anaconda Prompt:** Environment setup, directory creation, data extraction using Kaggle API, and command-line interface for Git operations.
 - **PostgreSQL (psql):** Database and user creation, data storage, and querying.
