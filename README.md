@@ -120,7 +120,7 @@ To further enhance the insights from this Market Basket Analysis and provide eve
 
 <a id="estimated-impact"></a>
 
-### Estimated Impact of Proposed Actions with Industry Benchmarks
+## Estimated Impact of Proposed Actions with Industry Benchmarks
 
 - **Average Order Value (AOV):** Estimated **12%** increase through product bundling strategies. *(Supported by McKinsey & Company, 2018; Forrester Research, 2019)*
 
