@@ -52,15 +52,6 @@ This project demonstrates strong proficiency in turning complex datasets into ac
 - **Git:** Version control for tracking changes, managing project history, and pushing the project directory to GitHub.
 - **Word/Google Docs:** Final report compilation and formatting.
 
-**SQL Skills Demonstrated:**
-- Temp Tables
-- CTEs for Modular Queries
-- Complex Joins
-- Window Functions
-- Subqueries and nested queries
-- Aggregation and Grouping
-- Data Integrity Checks
-
 <a id="data-source"></a>
 
 ## Data Source
